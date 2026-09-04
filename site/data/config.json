@@ -8,7 +8,7 @@
     "intervaloSegundos": 20
   },
   "envioDirecto": {
-    "activo": true,
+   "activo": true,
     "formActionUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfGuElsFgbO1opgB85rFLgdlxSmAw3hJUZF7QDJ3wug5GK4BA/formResponse",
     "entryIds": {
       "marca": "entry.1608132628",
@@ -16,7 +16,7 @@
       "categoria": "entry.91568716",
       "agenciaLider": "entry.1028424686",
       "agenciaContribuyente": "entry.1663774933",
-      "metal": "entry.1819312413",
+      "metal": "entry.1819312413"
     }
   },
   "puntos": {
