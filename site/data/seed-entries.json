@@ -1,0 +1,618 @@
+[
+  {
+    "campana": "De UGC a CGC (Colombians Generated Content)",
+    "marca": "Club Colombia",
+    "agencia_lider": "DraftLine Colombia - ABInbev",
+    "agencias_contribuyentes": "",
+    "categoria": "Engaged Community - Productos",
+    "id": "bav-01",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DraftLine Colombia - ABInbev"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "De UGC a CGC (Colombians Generated Content)",
+    "marca": "Club Colombia",
+    "agencia_lider": "DraftLine Colombia - ABInbev",
+    "agencias_contribuyentes": "",
+    "categoria": "Social Media",
+    "id": "bav-02",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DraftLine Colombia - ABInbev"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "Club Colombia Esmeralda: Una Joya Líquida",
+    "marca": "Club Colombia",
+    "agencia_lider": "DraftLine Colombia - ABInbev",
+    "agencias_contribuyentes": "",
+    "categoria": "Nuevo Producto/Servicio: Extensión de Línea",
+    "id": "bav-03",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DraftLine Colombia - ABInbev"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "La Búsqueda del Tesoro Colombiano",
+    "marca": "Club Colombia",
+    "agencia_lider": "DraftLine Colombia - ABInbev",
+    "agencias_contribuyentes": "",
+    "categoria": "Promociones",
+    "id": "bav-04",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DraftLine Colombia - ABInbev"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "This is Living: la plataforma que convirtió experiencias en crecimiento sostenido",
+    "marca": "Cerveza Corona",
+    "agencia_lider": "DraftLine Colombia - ABInbev",
+    "agencias_contribuyentes": "SEC Latam Comunicaciones Estratégicas",
+    "categoria": "Éxito Sostenido",
+    "id": "bav-05",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DraftLine Colombia - ABInbev"
+    ],
+    "agencias_contrib_lista": [
+      "SEC Latam Comunicaciones Estratégicas"
+    ]
+  },
+  {
+    "campana": "Cuando el paraíso se volvió reservable",
+    "marca": "Cerveza Corona",
+    "agencia_lider": "DraftLine Colombia - ABInbev",
+    "agencias_contribuyentes": "OxoHotel Hospitality Management Group / Agencia SKY",
+    "categoria": "Retail",
+    "id": "bav-06",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DraftLine Colombia - ABInbev"
+    ],
+    "agencias_contrib_lista": [
+      "OxoHotel Hospitality Management Group",
+      "Agencia SKY"
+    ]
+  },
+  {
+    "campana": "Destino Oculto 2: cuando el challenger creó el destino más deseado de la aviación",
+    "marca": "Cerveza Corona",
+    "agencia_lider": "Havas",
+    "agencias_contribuyentes": "",
+    "categoria": "David y Goliat: Servicios",
+    "id": "bav-07",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "Havas"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "Destino Oculto 2: cuando el challenger creó el destino más deseado de la aviación",
+    "marca": "Cerveza Corona",
+    "agencia_lider": "Havas",
+    "agencias_contribuyentes": "",
+    "categoria": "Marketing experiencial - Servicios",
+    "id": "bav-08",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "Havas"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "Hard Discounters vs. Heart Discounters",
+    "marca": "BEES",
+    "agencia_lider": "DraftLine Colombia - ABInbev",
+    "agencias_contribuyentes": "",
+    "categoria": "Omnichannel Shopper Solution",
+    "id": "bav-09",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DraftLine Colombia - ABInbev"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "Hard Discounters vs. Heart Discounters",
+    "marca": "BEES",
+    "agencia_lider": "DraftLine Colombia - ABInbev",
+    "agencias_contribuyentes": "",
+    "categoria": "Retail",
+    "id": "bav-10",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DraftLine Colombia - ABInbev"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "Había una vez una Hinchada que no Necesitaba Logos en la camiseta",
+    "marca": "Pilsen",
+    "agencia_lider": "DraftLine Colombia - ABInbev",
+    "agencias_contribuyentes": "",
+    "categoria": "Engaged Community - Productos",
+    "id": "bav-11",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DraftLine Colombia - ABInbev"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "La lata que se puso la camiseta",
+    "marca": "Pilsen",
+    "agencia_lider": "DraftLine Colombia - ABInbev",
+    "agencias_contribuyentes": "FRAT",
+    "categoria": "Gran Idea de Medios",
+    "id": "bav-12",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DraftLine Colombia - ABInbev"
+    ],
+    "agencias_contrib_lista": [
+      "FRAT"
+    ]
+  },
+  {
+    "campana": "Quien fuera Pilsen para echarle flores a los paisas",
+    "marca": "Pilsen",
+    "agencia_lider": "TBWA / DraftLine Colombia - ABInbev",
+    "agencias_contribuyentes": "",
+    "categoria": "Marketing Estacional - Productos",
+    "id": "bav-13",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "TBWA",
+      "DraftLine Colombia - ABInbev"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "Y para recuperar el césped del Atanasio",
+    "marca": "Pilsen",
+    "agencia_lider": "DraftLine Colombia - ABInbev",
+    "agencias_contribuyentes": "Monks",
+    "categoria": "Marketing Innovation Solutions",
+    "id": "bav-14",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DraftLine Colombia - ABInbev"
+    ],
+    "agencias_contrib_lista": [
+      "Monks"
+    ]
+  },
+  {
+    "campana": "La lata del campeón era cuestión de fe",
+    "marca": "TaDa",
+    "agencia_lider": "DraftLine Colombia - ABInbev",
+    "agencias_contribuyentes": "",
+    "categoria": "Marketing Estacional - Productos",
+    "id": "bav-15",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DraftLine Colombia - ABInbev"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "La lata del campeón era cuestión de fe",
+    "marca": "TaDa",
+    "agencia_lider": "DraftLine Colombia - ABInbev",
+    "agencias_contribuyentes": "",
+    "categoria": "Servicios de Entrega y/o Domicilios",
+    "id": "bav-16",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DraftLine Colombia - ABInbev"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "Redd’s rosé: cómo una cerveza dulce volvió a enamorar a los jóvenes",
+    "marca": "REDD’S",
+    "agencia_lider": "DraftLine Colombia - ABInbev",
+    "agencias_contribuyentes": "SEC Latam Comunicaciones Estratégicas / Zenith",
+    "categoria": "Marketing a Jóvenes",
+    "id": "bav-17",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DraftLine Colombia - ABInbev"
+    ],
+    "agencias_contrib_lista": [
+      "SEC Latam Comunicaciones Estratégicas",
+      "Zenith"
+    ]
+  },
+  {
+    "campana": "El Podcast Deportivo #1 de Colombia",
+    "marca": "Pony Malta",
+    "agencia_lider": "DraftLine Colombia - ABInbev",
+    "agencias_contribuyentes": "Cápsula Lab",
+    "categoria": "Branded Content",
+    "id": "bav-18",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DraftLine Colombia - ABInbev"
+    ],
+    "agencias_contrib_lista": [
+      "Cápsula Lab"
+    ]
+  },
+  {
+    "campana": "La cerveza que le dio voz a los hinchas",
+    "marca": "Aguila",
+    "agencia_lider": "DraftLine Colombia - ABInbev",
+    "agencias_contribuyentes": "",
+    "categoria": "Bebidas Alcohólicas",
+    "id": "bav-19",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DraftLine Colombia - ABInbev"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "Aguila, el verdadero jugador del partido",
+    "marca": "Aguila",
+    "agencia_lider": "DAVID",
+    "agencias_contribuyentes": "DraftLine Colombia - ABInbev / Zenith / Alina Vélez Comunicaciones / Parche Films",
+    "categoria": "Branded Content",
+    "codigo_effie": "E-5227-728",
+    "id": "bav-20",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DAVID"
+    ],
+    "agencias_contrib_lista": [
+      "DraftLine Colombia - ABInbev",
+      "Zenith",
+      "Alina Vélez Comunicaciones",
+      "Parche Films"
+    ]
+  },
+  {
+    "campana": "La Reina del Carnaval que no se ve en televisión",
+    "marca": "Aguila",
+    "agencia_lider": "DAVID",
+    "agencias_contribuyentes": "",
+    "categoria": "Cultura y Arte",
+    "codigo_effie": "E-5240-496",
+    "id": "bav-21",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DAVID"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "Cuando el fútbol no entretenía, lo hicimos nosotros",
+    "marca": "Aguila",
+    "agencia_lider": "DAVID",
+    "agencias_contribuyentes": "DraftLine Colombia - ABInbev / Zenith / Alina Vélez Comunicaciones / Duro Estudio",
+    "categoria": "Engaged Community",
+    "codigo_effie": "E-5236-509",
+    "id": "bav-22",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DAVID"
+    ],
+    "agencias_contrib_lista": [
+      "DraftLine Colombia - ABInbev",
+      "Zenith",
+      "Alina Vélez Comunicaciones",
+      "Duro Estudio"
+    ]
+  },
+  {
+    "campana": "La Reina del Carnaval que no se ve en televisión",
+    "marca": "Aguila",
+    "agencia_lider": "DAVID",
+    "agencias_contribuyentes": "",
+    "categoria": "Engaged Community",
+    "codigo_effie": "E-5242-554",
+    "id": "bav-23",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DAVID"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "La Reina del Carnaval que no se ve en televisión",
+    "marca": "Aguila",
+    "agencia_lider": "DAVID",
+    "agencias_contribuyentes": "",
+    "categoria": "Marketing Experiencial - Productos",
+    "codigo_effie": "E-5239-901",
+    "id": "bav-24",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DAVID"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "La Reina del Carnaval que no se ve en televisión",
+    "marca": "Aguila",
+    "agencia_lider": "DAVID",
+    "agencias_contribuyentes": "",
+    "categoria": "Retail Media",
+    "codigo_effie": "E-4968-804",
+    "id": "bav-25",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DAVID"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "Aguila Light: ahora sabes cuándo “la fría” es realmente helada",
+    "marca": "Aguila Light",
+    "agencia_lider": "DAVID",
+    "agencias_contribuyentes": "",
+    "categoria": "Bebidas Alcohólicas",
+    "codigo_effie": "E-5195-440",
+    "id": "bav-26",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DAVID"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "Aguila Light, la lealtad nunca se derrite",
+    "marca": "Aguila Light",
+    "agencia_lider": "DAVID",
+    "agencias_contribuyentes": "",
+    "categoria": "Engaged Community",
+    "codigo_effie": "E-5181-441",
+    "id": "bav-27",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DAVID"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "Aguila Light: ahora sabes cuándo “la fría” es realmente helada",
+    "marca": "Aguila Light",
+    "agencia_lider": "DAVID",
+    "agencias_contribuyentes": "",
+    "categoria": "Omnichannel Shopper Solution",
+    "codigo_effie": "E-4976-227",
+    "id": "bav-28",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DAVID"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "Última y nos quedamos: 3 años reactivando tiendas",
+    "marca": "Bavaria",
+    "agencia_lider": "DraftLine Colombia - ABInbev",
+    "agencias_contribuyentes": "",
+    "categoria": "Éxito Sostenido",
+    "id": "bav-29",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DraftLine Colombia - ABInbev"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "El Club para los Fanáticos de la Cerveza",
+    "marca": "Bavaria",
+    "agencia_lider": "DAVID",
+    "agencias_contribuyentes": "DraftLine Colombia - ABInbev / Zenith / Akira Cine / Alina Vélez Comunicaciones",
+    "categoria": "Data Driven Media",
+    "codigo_effie": "E-4978-310",
+    "id": "bav-30",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DAVID"
+    ],
+    "agencias_contrib_lista": [
+      "DraftLine Colombia - ABInbev",
+      "Zenith",
+      "Akira Cine",
+      "Alina Vélez Comunicaciones"
+    ]
+  },
+  {
+    "campana": "El Club para los Fanáticos de la Cerveza",
+    "marca": "Bavaria",
+    "agencia_lider": "DAVID",
+    "agencias_contribuyentes": "DraftLine Colombia - ABInbev / Zenith / Akira Cine / Alina Vélez Comunicaciones",
+    "categoria": "Omnichannel Shopper Solution",
+    "codigo_effie": "E-5244-703",
+    "id": "bav-31",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DAVID"
+    ],
+    "agencias_contrib_lista": [
+      "DraftLine Colombia - ABInbev",
+      "Zenith",
+      "Akira Cine",
+      "Alina Vélez Comunicaciones"
+    ]
+  },
+  {
+    "campana": "El Club para los Fanáticos de la Cerveza",
+    "marca": "Bavaria",
+    "agencia_lider": "DAVID",
+    "agencias_contribuyentes": "DraftLine Colombia - ABInbev / Zenith / Akira Cine / Alina Vélez Comunicaciones",
+    "categoria": "Promociones",
+    "codigo_effie": "E-5243-392",
+    "id": "bav-32",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DAVID"
+    ],
+    "agencias_contrib_lista": [
+      "DraftLine Colombia - ABInbev",
+      "Zenith",
+      "Akira Cine",
+      "Alina Vélez Comunicaciones"
+    ]
+  },
+  {
+    "campana": "Cuando se trata de tomar cerveza, la tienda primero, Bavaria",
+    "marca": "Bavaria",
+    "agencia_lider": "TBWA",
+    "agencias_contribuyentes": "",
+    "categoria": "Positive Change Bien Social - Marcas",
+    "id": "bav-33",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "TBWA"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "Cuando se trata de tomar cerveza, la tienda primero, Bavaria",
+    "marca": "Bavaria",
+    "agencia_lider": "TBWA",
+    "agencias_contribuyentes": "",
+    "categoria": "Reputación Corporativa",
+    "id": "bav-34",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "TBWA"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "La verdadera Filosofría que está conectando con los Gen Z",
+    "marca": "Costeña",
+    "agencia_lider": "DAVID",
+    "agencias_contribuyentes": "",
+    "categoria": "Bebidas Alcohólicas",
+    "codigo_effie": "E-5241-574",
+    "id": "bav-35",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DAVID"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "La verdadera Filosofría que está conectando con los Gen Z",
+    "marca": "Costeña",
+    "agencia_lider": "DAVID",
+    "agencias_contribuyentes": "",
+    "categoria": "David y Goliat",
+    "codigo_effie": "E-5238-192",
+    "id": "bav-36",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DAVID"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "Cómo dos tapas le dieron a los jóvenes de Bogotá el descanso que necesitaban",
+    "marca": "Costeña",
+    "agencia_lider": "DAVID",
+    "agencias_contribuyentes": "",
+    "categoria": "Marketing Experiencial - Productos",
+    "codigo_effie": "E-4980-594",
+    "id": "bav-37",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DAVID"
+    ],
+    "agencias_contrib_lista": []
+  },
+  {
+    "campana": "El Juego del Calamar reclutó al amigo faltón",
+    "marca": "Poker",
+    "agencia_lider": "TBWA / DraftLine Colombia - ABInbev",
+    "agencias_contribuyentes": "Zenith",
+    "categoria": "Branded Content",
+    "id": "bav-38",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "TBWA",
+      "DraftLine Colombia - ABInbev"
+    ],
+    "agencias_contrib_lista": [
+      "Zenith"
+    ]
+  },
+  {
+    "campana": "El Juego del Calamar reclutó al amigo faltón",
+    "marca": "Poker",
+    "agencia_lider": "TBWA / DraftLine Colombia - ABInbev",
+    "agencias_contribuyentes": "Zenith",
+    "categoria": "Marketing Estacional - Productos",
+    "id": "bav-39",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "TBWA",
+      "DraftLine Colombia - ABInbev"
+    ],
+    "agencias_contrib_lista": [
+      "Zenith"
+    ]
+  },
+  {
+    "campana": "Poker x Koaj: La colección más “Aesthetic”",
+    "marca": "Poker",
+    "agencia_lider": "DraftLine Colombia - ABInbev / TBWA",
+    "agencias_contribuyentes": "Akimbo",
+    "categoria": "Marketing a Jóvenes",
+    "id": "bav-40",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DraftLine Colombia - ABInbev",
+      "TBWA"
+    ],
+    "agencias_contrib_lista": [
+      "Akimbo"
+    ]
+  },
+  {
+    "campana": "Poker x Koaj: La colección más “Aesthetic”",
+    "marca": "Poker",
+    "agencia_lider": "DraftLine Colombia - ABInbev / TBWA",
+    "agencias_contribuyentes": "Akimbo",
+    "categoria": "Promociones",
+    "id": "bav-41",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DraftLine Colombia - ABInbev",
+      "TBWA"
+    ],
+    "agencias_contrib_lista": [
+      "Akimbo"
+    ]
+  },
+  {
+    "campana": "Poker x Koaj: La colección más “Aesthetic”",
+    "marca": "Poker",
+    "agencia_lider": "DraftLine Colombia - ABInbev / TBWA",
+    "agencias_contribuyentes": "Akimbo",
+    "categoria": "Retail Media",
+    "id": "bav-42",
+    "metal": "Finalista",
+    "agencias_lider_lista": [
+      "DraftLine Colombia - ABInbev",
+      "TBWA"
+    ],
+    "agencias_contrib_lista": [
+      "Akimbo"
+    ]
+  }
+]
