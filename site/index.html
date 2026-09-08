@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Effie 20 | Bavaria — Tracker Premios</title>
+<meta name="theme-color" content="#16120d">
+<link rel="manifest" href="manifest.json">
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="icons/icon-192.png">
+</head>
+<body>
+
+<div class="statusbar">
+  <span class="dot" id="statusDot"></span>
+  <span id="statusLabel">Cargando…</span>
+  <button id="refreshBtn">Actualizar</button>
+</div>
+
+<div class="wrap">
+
+  <!-- ============ HOME ============ -->
+  <section id="view-home" class="view">
+
+    <header class="brandbar">
+      <img src="assets/effie20-logo.png" alt="Effie 20 años Colombia" class="logo-effie">
+      <img src="assets/bavaria-logo.png" alt="Bavaria" class="logo-bavaria">
+    </header>
+
+    <div class="titleblock">
+      <h1>effie 20 <span class="pipe">|</span> Bavaria</h1>
+      <p class="subtitle">Tracker Premios</p>
+      <button id="infoBtn" class="info-link">ⓘ cómo se cuentan los puntos</button>
+    </div>
+
+    <div class="medal-strip" id="medalStrip">
+      <div class="medal-box"><span class="n" id="cntFinalista">0</span><span class="l">Shortlists</span></div>
+      <div class="medal-box"><span class="n" id="cntBronce">0</span><span class="l">Bronce</span></div>
+      <div class="medal-box"><span class="n" id="cntPlata">0</span><span class="l">Plata</span></div>
+      <div class="medal-box"><span class="n" id="cntOro">0</span><span class="l">Oro</span></div>
+    </div>
+
+    <section class="race-block grand-effie-block" id="grandEffieBlock" hidden>
+      <h2>🏆 Gran Effie</h2>
+      <div id="grandEffieList" class="grand-effie-list"></div>
+    </section>
+
+    <section class="race-block">
+      <div class="race-heading"><h2>Anunciante del Año</h2><span class="col-label">Puntos</span></div>
+      <div id="raceAnunciante" class="race-list"></div>
+      <p class="race-note">Solo se ven aquí los anunciantes cuyos metales el equipo va registrando en la gala.</p>
+    </section>
+
+    <section class="race-block">
+      <div class="race-heading"><h2>Agencia del Año</h2><span class="col-label">Puntos</span></div>
+      <div id="raceAgencia" class="race-list"></div>
+      <p class="race-note">Puntos completos como agencia líder, mitad como contribuyente.</p>
+    </section>
+
+    <section class="race-block">
+      <div class="race-heading"><h2>Marca del Año</h2><span class="col-label">Puntos</span></div>
+      <div id="raceMarca" class="race-list clickable"></div>
+    </section>
+
+    <div class="search-block">
+      <label for="searchInput">Buscar marca, agencia o anunciante</label>
+      <input id="searchInput" list="marcasList" placeholder="Ej. Club Colombia, TBWA, Netflix" autocomplete="off">
+      <datalist id="marcasList"></datalist>
+    </div>
+
+  </section>
+
+  <!-- ============ MARCA DEEP DIVE ============ -->
+  <section id="view-marca" class="view" hidden>
+
+    <header class="brandbar">
+      <img src="assets/effie20-logo.png" alt="Effie 20 años Colombia" class="logo-effie">
+      <img src="assets/bavaria-logo.png" alt="Bavaria" class="logo-bavaria">
+    </header>
+
+    <button class="back-link" id="backFromMarca">← volver</button>
+
+    <div class="titleblock">
+      <h1>effie 20 <span class="pipe">|</span> Bavaria</h1>
+      <p class="subtitle" id="marcaName">Marca</p>
+    </div>
+
+    <div class="grand-effie-badge" id="marcaGrandEffieBadge" hidden>🏆 Ganó el Gran Effie</div>
+
+    <div class="medal-strip" id="marcaMedalStrip">
+      <div class="medal-box"><span class="n" id="mCntFinalista">0</span><span class="l">Shortlists</span></div>
+      <div class="medal-box"><span class="n" id="mCntBronce">0</span><span class="l">Bronce</span></div>
+      <div class="medal-box"><span class="n" id="mCntPlata">0</span><span class="l">Plata</span></div>
+      <div class="medal-box"><span class="n" id="mCntOro">0</span><span class="l">Oro</span></div>
+    </div>
+
+    <section class="race-block">
+      <h2>Por idea</h2>
+      <div id="marcaIdeasList" class="ideas-list"></div>
+    </section>
+
+  </section>
+
+  <!-- ============ FORM ============ -->
+  <section id="view-form" class="view" hidden>
+
+    <header class="brandbar">
+      <img src="assets/effie20-logo.png" alt="Effie 20 años Colombia" class="logo-effie">
+      <img src="assets/bavaria-logo.png" alt="Bavaria" class="logo-bavaria">
+    </header>
+
+    <button class="back-link" id="backFromForm">← volver</button>
+
+    <div class="titleblock">
+      <h1>effie 20 <span class="pipe">|</span> Bavaria</h1>
+      <p class="subtitle underline">Tracker Premios</p>
+    </div>
+
+    <div class="form-card">
+      <div class="field">
+        <label>Marca</label>
+        <select id="ff_marca">
+          <option value="">Selecciona la respuesta</option>
+        </select>
+      </div>
+      <div class="field" id="ff_marcaOtraWrap" hidden>
+        <label>Nombre de la marca</label>
+        <input id="ff_marcaOtra" placeholder="Escribe la marca">
+      </div>
+
+      <div class="field">
+        <label>Campaña</label>
+        <select id="ff_campana" disabled>
+          <option value="">Primero elige la marca</option>
+        </select>
+        <p class="field-hint" id="dupHint"></p>
+      </div>
+      <div class="field" id="ff_campanaOtraWrap" hidden>
+        <label>Nombre de la campaña</label>
+        <input id="ff_campanaOtra" placeholder="Nombre del caso">
+      </div>
+
+      <div class="field">
+        <label>Categoría</label>
+        <select id="ff_categoria" disabled>
+          <option value="">Primero elige la campaña</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label>Agencia líder</label>
+        <input id="ff_agenciaLider" placeholder="Se completa sola al elegir la campaña" autocomplete="off">
+      </div>
+      <div class="field">
+        <label>Agencia contribuyente <span class="opt">(opcional)</span></label>
+        <input id="ff_agenciaContrib" placeholder="Se completa sola si aplica" autocomplete="off">
+      </div>
+      <div class="field">
+        <label>Metal</label>
+        <select id="ff_metal"></select>
+      </div>
+      <div class="field">
+        <label>Tu nombre <span class="opt">(opcional)</span></label>
+        <input id="ff_autor" placeholder="Quién lo está cargando">
+      </div>
+
+      <button id="ff_submit" class="btn primary wide">Enviar</button>
+      <p class="form-status" id="formStatus"></p>
+    </div>
+
+  </section>
+
+  <button class="update-cta" id="updateBtn">Actualiza los ganadores</button>
+
+</div>
+
+<!-- ============ INFO MODAL: sistema de puntos ============ -->
+<div class="sheet-backdrop" id="infoBackdrop"></div>
+<div class="sheet" id="infoSheet">
+  <div class="grabber"></div>
+  <h2>Sistema de puntos Effie</h2>
+  <p class="hint">Cada metal vale una cantidad fija de puntos. Así se calculan todos los rankings de este tracker.</p>
+
+  <table class="points-table">
+    <tr><td>Finalista / Shortlist</td><td>2 pts</td></tr>
+    <tr><td>Bronce</td><td>6 pts</td></tr>
+    <tr><td>Plata</td><td>12 pts</td></tr>
+    <tr><td>Oro</td><td>24 pts</td></tr>
+    <tr><td>Gran Effie</td><td>48 pts</td></tr>
+  </table>
+
+  <p class="hint">
+    <b>Anunciante del Año</b>: la marca dueña (Bavaria) suma los puntos completos de todas sus marcas, sin importar qué agencia hizo el caso.<br><br>
+    <b>Agencia del Año</b>: cada agencia suma puntos solo por los casos donde participó — <b>completos si fue agencia líder</b>, <b>la mitad si fue agencia contribuyente</b>.
+  </p>
+
+  <button class="btn primary wide" id="closeInfo">Entendido</button>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
